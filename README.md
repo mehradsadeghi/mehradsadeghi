@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mehradsadeghi)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💬 Ask me about PHP programming language and Laravel framework
+- 💬 Ask me about PHP, Laravel framework, Web development career path and also about the greatest Rock and Electronic music tracks and artists 😉
 - 📫 You can reach me by:
 
 [![Gmail Badge](https://img.shields.io/badge/-mehrad177@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mehrad177@gmail.com)](mailto:mehrad177@gmail.com)
